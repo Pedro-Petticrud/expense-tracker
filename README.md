@@ -223,6 +223,7 @@ Contribuições são bem-vindas! Para contribuir:
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 
+
 ## 📞 Suporte
 
 Para dúvidas, problemas ou sugestões:
