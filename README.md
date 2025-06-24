@@ -222,11 +222,6 @@ Contribuições são bem-vindas! Para contribuir:
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 👨‍💻 Autor
-
-**Manus AI**
-- Aplicativo desenvolvido como exemplo de projeto completo
-- Demonstração de boas práticas em desenvolvimento web
 
 ## 📞 Suporte
 
